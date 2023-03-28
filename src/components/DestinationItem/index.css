@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image {
+  border-radius: 10px;
+  height: 180px;
+  width: 180px;
+}
+.heading {
+  font-size: 15px;
+  font-weight: 700;
+  font-family: 'roboto';
+  color: #000000;
+}
+
+.card_container {
+  list-style-type: none;
+  margin: 10px;
+}

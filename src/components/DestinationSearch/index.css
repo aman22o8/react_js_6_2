@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.main_container {
+  background-color: #f1b8b8;
+  /* height: 100vh; */
+  /* width: 60vw; */
+  padding: 25px;
+}
+.dest_heading {
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'roboto';
+  color: #000000;
+  /* text-align: center; */
+  margin-left: 50px;
+}
+.side_by_side {
+  display: flex;
+}
+.input_box {
+  background-color: #f1f5f9;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  height: 35px;
+  border-style: none;
+  width: 280px;
+  font-size: 15px;
+  margin-left: 50px;
+  color: #f1f5f9;
+  /* align-self: center; */
+}
+.list-container {
+  display: flex;
+  width: 50vw;
+  flex-wrap: wrap;
+}
+.icon_ {
+  /* padding-top: 30px; */
+  height: 35px;
+  width: 20px;
+  background-color: #f1f5f9;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
